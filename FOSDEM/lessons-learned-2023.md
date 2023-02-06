@@ -33,3 +33,4 @@
     - welcome speakers
     - helping speakers
     - introduce speakers
+- more social media during the day?

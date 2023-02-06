@@ -1,0 +1,35 @@
+# Felix
+- no 60 minute slots, just 20, 30 and 40
+- schedule a bof session ourselves
+
+# Thorsten
+- more than 5 minutes breaks (10, 10+) with 3 people
+- Lunch break needed, the shorter the in between breaks, the less helper
+- starting full and half hour
+  - creates automatically breaks
+  - makes it easier for hosts without looking at the schedule all the time
+- extension cords
+- hdmi multiplier/ switch (two+ devices connected at the same time)
+- presenter/ raspberry pi/ extra laptop for break screen
+- pointer/ remote for slides
+- colorful name signs for the doors
+  - name of room
+  - stop (red) full & go (green) seats available
+- print out schedule
+  - for the door
+  - for the desks
+  - for the hosts
+- water
+  - for speakers
+  - for hosts
+- split it into jobs
+  - one for
+    - internet chats
+    - doors
+  - one for
+    - timing (cards)
+    - questions
+  - one for
+    - welcome speakers
+    - helping speakers
+    - introduce speakers
